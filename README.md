@@ -116,4 +116,3 @@ For more information on the backend components and the ecosystem, refer to:
 
 - **MSSD Ingestion Service:** [Solar-Punk-Ltd/mssd-ingestion](https://github.com/Solar-Punk-Ltd/mssd-ingestion)
 - **Stream Aggregator Library:** [Solar-Punk-Ltd/swarm-stream-aggregator-js](https://github.com/Solar-Punk-Ltd/swarm-stream-aggregator-js)
-````
