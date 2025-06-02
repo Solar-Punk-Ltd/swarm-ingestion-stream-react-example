@@ -53,8 +53,6 @@ git clone [https://github.com/Solar-Punk-Ltd/swarm-ingestion-stream-react-exampl
 cd swarm-ingestion-stream-react-example
 ```
 
-````
-
 ### 2\. Installing Dependencies
 
 This project uses `pnpm` for efficient package management.
